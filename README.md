@@ -1,3 +1,6 @@
+# THIS PLUGIN IS DISCONTINUED AND WON'T RECIEVE ANYMORE UPDATES.
+
+
 # Minehook
 Minehook is a logging plugin that uses Discord Webhooks.
 
